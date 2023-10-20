@@ -4,13 +4,8 @@
 
 Doe een WCAG test op een bestaande website en rapporteer daarover.
 
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
-
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
-
-Schrijf een samenvatting van de testbevindingen.
+WCAG audit van curacao's overheid website
+![Screenshot 2023-10-20 122627](https://github.com/christoph3r3w/all-human-wcag-audit/assets/144007933/cb9d8ab6-9ccc-4751-bd60-0473b121e5e9)
 
 ## Licentie
 
